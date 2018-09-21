@@ -1,8 +1,8 @@
 {
-  "name": "validate.js",
+  "name": "improved.validate.js",
   "version": "0.12.0",
   "author": "Nicklas Ansman <nicklas@ansman.se>",
-  "description": "Declarative validations for JavaScript",
+  "description": "Fork of validate.js",
   "main": "validate.js",
   "typings": "validate.d.ts",
   "homepage": "http://validatejs.org",
